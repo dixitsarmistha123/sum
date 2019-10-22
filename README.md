@@ -1,4 +1,4 @@
-# sum
+# concat
 class concat
 {
 void con()
